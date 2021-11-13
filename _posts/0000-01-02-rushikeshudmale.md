@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "Add rushikeshudmale's file"
 ---
 Your text
 Use the left arrow to go back!
